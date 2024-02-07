@@ -34,7 +34,7 @@ export default function AuthenticationPage() {
           <div className="relative z-20 mt-auto">
             <blockquote className="space-y-2">
               <p className="text-lg">
-                &ldquo;To view more of my deployed projects visit <Link href={"www.namanarora.in"} target="_blank" className="font-semibold hover:underline underline-offset-2 ">My Portfolio</Link>&rdquo;
+                &ldquo;To view more of my deployed projects visit <Link href={"https://www.namanarora.in"} target="_blank" className="font-semibold hover:underline underline-offset-2 ">My Portfolio</Link>&rdquo;
               </p>
               <footer className="text-sm">Naman Arora</footer>
             </blockquote>
